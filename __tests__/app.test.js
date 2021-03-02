@@ -106,7 +106,7 @@ describe('app routes', () => {
       {
         id: 4,
         todo: 'make bed',
-        completed: false,
+        completed: true,
         owner_id: 2
       };
 
