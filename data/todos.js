@@ -13,10 +13,5 @@ module.exports = [
     id: 3,
     todo: 'feed Billy',
     completed: false,
-  },
-  {
-    id: 4,
-    todo: 'make breakfast',
-    completed: false,
   }
 ];
